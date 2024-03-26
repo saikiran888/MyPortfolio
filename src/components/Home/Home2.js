@@ -14,41 +14,25 @@ function Home2() {
       <Container>
         <Row>
           <Col md={8} className="home-about-description">
-            <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+            <h1 style={{ fontSize: "2.2em" }}>
+            GET<span className="purple"> TO  KNOW </span> ME
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+            I'm a programming enthusiast with a knack for Python, Java, PHP, and JavaScript... 👨‍💻
               <br />
-              <br />I am fluent in classics like
+              <br />My passion lies in <i><b className="purple">Machine Learning, Data Science, and AI </b>
+              <br /></i>
+              <br />
+              I love building end-to-end products using Python and &nbsp;
+                <b className="purple">Data Science </b> and
+                and ML algorithms to solve real-world problems.{" "}
+              <br />
+              <br />
               <i>
-                <b className="purple"> Python, Java, php and Javascript . </b>
-              </i>
-              <br />
-              <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Machine Learning and Data Science </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  AI.
+              <b className="purple">
+                Let's create something amazing together!
                 </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> React.js and Next.js</b>
-              </i>
+                </i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
