@@ -18,21 +18,11 @@ function Home2() {
             GET<span className="purple"> TO  KNOW </span> ME
             </h1>
             <p className="home-about-body">
-            I'm a programming enthusiast with a knack for Python, Java, PHP, and JavaScript... 👨‍💻
-              <br />
-              <br />My passion lies in <i><b className="purple">Machine Learning, Data Science, and AI </b>
-              <br /></i>
-              <br />
-              I love building end-to-end products using Python and &nbsp;
-                <b className="purple">Data Science </b> and
-                and ML algorithms to solve real-world problems.{" "}
-              <br />
-              <br />
-              <i>
-              <b className="purple">
-                Let's create something amazing together!
-                </b>
-                </i>
+              I’m a passionate Data Scientist and Software Engineer specializing in <b className="purple">Machine Learning</b> and <b className="purple">Data Science</b>. With a strong background in <b className="purple">Full-Stack Development</b>, I build end-to-end products that solve complex, real-world challenges. 
+              <br /><br />
+              My experience spans creating predictive models, optimizing systems, and deploying scalable solutions in industries like healthcare, eCommerce, and Internet of things(IOT). I leverage technologies like <b className="purple">TensorFlow</b>, <b className="purple">PyTorch</b>, and <b className="purple">AWS</b> to drive impactful results.
+              <br /><br />
+              <i><b className="purple">Let’s innovate together and create transformative solutions!</b></i>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
